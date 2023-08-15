@@ -40,7 +40,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - Animal Table Created
 - Data inserted into table
@@ -62,8 +61,6 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Kamran Asif**
 
 - GitHub: [@githubhandle](https://github.com/kamranasif506)
@@ -76,7 +73,6 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] query and update animals table.
 - [ ] query multiple tables
@@ -102,7 +98,6 @@ Feel free to check the [issues page](../../issues/).
 
 > If you like this project kindly give stars.
 
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
