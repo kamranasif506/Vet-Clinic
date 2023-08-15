@@ -38,3 +38,11 @@ SET species_id = CASE
     ELSE (SELECT id FROM species WHERE name = 'Pokemon')
   END;
 
+UPDATE animals
+SET owner_id = CASE
+    WHEN name = 'Agumon' THEN (SELECT id FROM owners WHERE name = 'Sam Smith')
+    WHEN name IN ('Gabumon', 'Pikachu') THEN (SELECT id FROM owners WHERE name = 'Jennifer Orwell')
+    WHEN name IN ('Devimon', 'Plantmon') THEN (SELECT id FROM owners WHERE name = 'Bob')
+    WHEN name IN ('Charmander', 'Squirtle', 'Blossom') THEN (SELECT id FROM owners WHERE name = 'Melody Pond')
+    WHEN name IN ('Angemon', 'Boarmon') THEN (SELECT id FROM owners WHERE name = 'Dean Winchester')
+  END;
