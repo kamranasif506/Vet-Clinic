@@ -8,6 +8,9 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)  
+  - [Setup](#setup)  
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -41,9 +44,10 @@
 ### Key Features <a name="key-features"></a>
 
 
-- Animal Table Created
-- Data inserted into table
-- Quries performed on table to fetch data
+- Table for animals
+- Adding data in animals table
+- Query and update animals table.
+- Rollback and commit transactional quries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +59,30 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+1- Web browser.
+2- Code editor
+3- Git-smc
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Run this command:
+
+```sh
+  cd my-folder
+  git clone https://github.com/kamranasif506/Vet-Clinic.git
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
