@@ -47,10 +47,14 @@
 - Table for animals
 - Table for owners
 - Table for species
+- Table for Vets
+- Join table for vets and species which is specialization
+- Join table for vets and animals which is  visit 
 - Adding data in animals table
 - Query and update animals table.
 - Used Foreign keys in animal table
 - Used JOIN statements to fetch data
+- Many-to-Many relationship handled
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
