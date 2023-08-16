@@ -54,3 +54,4 @@ CREATE TABLE visits (
     vet_id INT NOT NULL,
     animal_id INT NOT NULL
 );
+
