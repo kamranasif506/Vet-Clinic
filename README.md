@@ -44,17 +44,9 @@
 ### Key Features <a name="key-features"></a>
 
 
-- Table for animals
-- Table for owners
-- Table for species
-- Table for Vets
-- Join table for vets and species which is specialization
-- Join table for vets and animals which is  visit 
-- Adding data in animals table
-- Query and update animals table.
-- Used Foreign keys in animal table
-- Used JOIN statements to fetch data
-- Many-to-Many relationship handled
+- Created Index column for animal_id in visits table to improve execution time of the query
+- Created Index column for vet_id in visits table to improve execution time of the query
+- Created Index column for emai in owners table to improve execution time of the query
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,6 +93,13 @@ Run this command:
 - Twitter: [@twitterhandle](https://twitter.com/kamiasif55)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamran-asif-b3a612130/)
 
+👤 **Anand Mohan Pathak**
+
+- GitHub: [@githubhandle](https://github.com/Anand8317)
+- Twitter: [@twitterhandle](https://twitter.com/anand029)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anandmpathak/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -108,7 +107,7 @@ Run this command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] Perform quries for many-to-many relationships
+- [ ] Improve database performance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
